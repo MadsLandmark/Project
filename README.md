@@ -13,15 +13,17 @@ Idéens fundament er hovedsageligt at "samle" disse dele i en aplikation, hvor b
 
 
 Liste bestående af specifikke og features: 
-Login
-Profil
-3 funktioner (søge bolig, søge lejer, brows(forside))
-Forside med scrole
-evt Toast når man har sendt en besked til "ejeren".
-Filter (for søgning, hvor man kan indsnævrer sine præferencer).
-En database med folks opslag
-Et kontakt system, så folk kan korrespondere mellem mulige lejere.
-Mulighed for "ejeren af et opslag" kan fjerne sit opslag/ændrer det.
-Et dynamisk browser setup, så alt ser ens ud for hvert opslag
-Dynamisk sprog på engelsk og dansk.
+- Login
+- Profil
+- 3 funktioner (søge bolig, søge lejer, brows(forside))
+- Forside med scrole
+- evt Toast når man har sendt en besked til "ejeren".
+- Filter (for søgning, hvor man kan indsnævrer sine præferencer).
+- En database med folks opslag
+- Et kontakt system, så folk kan korrespondere mellem mulige lejere.
+- Mulighed for "ejeren af et opslag" kan fjerne sit opslag/ændrer det.
+- Et dynamisk browser setup, så alt ser ens ud for hvert opslag
+- Dynamisk sprog på engelsk og dansk.
+- Settings.
+- Kontakt applikationen for problemer.
 

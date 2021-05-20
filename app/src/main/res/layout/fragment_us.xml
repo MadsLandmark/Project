@@ -38,7 +38,7 @@
         android:textStyle="bold"
         android:text="Welcome to Boligus. A platform that connects you to rentale
 apartments. You have the posibility to add your own post, if you are looking for a roomie.
-Or seek and apply to the once you like. Enjoy your stay :) - Boligus" />
+Or seek and apply to the once you like. Enjoy your stay :) - Boligus." />
 
 
     <TextView
